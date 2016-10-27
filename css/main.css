@@ -12,6 +12,18 @@ header {
   background-color: #d05c2e;
 }
 
+.img-1 {
+  float: left;
+  width: 40px;
+  overflow: hidden;
+}
+
+.img-2 {
+  float: right;
+  width: 40px;
+  overflow: hidden;
+}
+
 ul {
   list-style-type: none;
 }
