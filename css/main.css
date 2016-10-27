@@ -55,7 +55,14 @@ a {
   color: #fff;
   padding: .4em 0;
   display: block;
+  margin: 0;
+  background-color: #d05c2e;
 }
 
-  margin: 0;
+li {
+  border: .1em solid #a63f38;
+  float: left;
+  width: 33.32%;
+}
+
 }
