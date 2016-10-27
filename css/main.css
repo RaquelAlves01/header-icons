@@ -8,6 +8,9 @@ html {
 
 header {
   font-family: 'Merriweather', serif;
+  line-height: 1.5;
+  font-size: 2rem;
+  text-align: center;
   color: #fff;
   background-color: #d05c2e;
 }
