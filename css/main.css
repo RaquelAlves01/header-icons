@@ -8,4 +8,14 @@ html {
 
 header {
   font-family: 'Merriweather', serif;
+  color: #fff;
+  background-color: #d05c2e;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li a {
+  text-decoration: none;
 }
