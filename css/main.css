@@ -49,8 +49,13 @@ ul {
   overflow: hidden;
 }
 
-li a {
+a {
   text-decoration: none;
   font-size: 1.125rem;
+  color: #fff;
+  padding: .4em 0;
+  display: block;
+}
+
   margin: 0;
 }
